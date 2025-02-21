@@ -28,4 +28,6 @@ public class StudentController {
 		return new ResponseEntity<>(studentData, HttpStatus.CREATED);
 	}
 
+	
+	// here get request 
 }
