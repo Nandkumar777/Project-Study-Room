@@ -1,5 +1,8 @@
 package com.studyroom.controller;
 
-public class AdminController {
+import org.springframework.web.bind.annotation.RestController;
 
+@RestController
+public class AdminController {
+ // this is my new change 
 }
